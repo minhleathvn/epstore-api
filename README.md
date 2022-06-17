@@ -1,2 +1,2 @@
 # epstore-api
-Rookies B5 Java
+Rookies B5 Java - API
